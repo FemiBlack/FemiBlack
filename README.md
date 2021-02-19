@@ -3,7 +3,7 @@
 
 ### Welcome to my github profile :grin: :tada:
 
-- 🔭 I’m currently working on ...\
+- 🔭 I’m currently working on ...
 1. Creating a Single Page Application using `Vue` and `Flask` you can view the repo [here](https://github.com/FemiBlack/flask-vue-building-spa)
 2. Creating a game using `python`'s in-built tkinter module
 - 🌱 I’m currently learning ...
