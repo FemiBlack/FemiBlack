@@ -7,6 +7,9 @@
 1. Creating a Single Page Application using `Vue` and `Flask` you can view the repo [here](https://github.com/FemiBlack/flask-vue-building-spa)
 2. Creating a game using `python`'s in-built tkinter module. [View here](https://github.com/FemiBlack/codex-gui)
 - 🌱 I’m currently learning ...
+```
+$ npm install -g @vue/cli
+```
 ```Javascript
 export default{
   console.log('Hello there!')
