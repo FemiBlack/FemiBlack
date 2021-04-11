@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Femi, a web developer and soution provider
+I'm Femi, a web developer and solution provider
 
 ### Welcome to my github profile :grin: :tada:
 
