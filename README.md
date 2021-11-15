@@ -15,7 +15,7 @@ $ npm install -g @vue/cli
   console.log('Hello there!')
 ```
 - 💬 Ask me about ...
-- 📫 How to reach me: femi.blvk@gmail.com
+- 📫 How to reach me: tadefemi2@hotmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 
